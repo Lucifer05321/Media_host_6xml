@@ -1,95 +1,62 @@
-# <span style="color: #ff6b6b">🔒</span> Mr Lucifer's Private Media Vault
+# <img src="https://img.shields.io/badge/-PRIVATE_MEDIA_VAULT-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Private Media Vault">
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-ACTIVE-00cc00?style=for-the-badge&logo=rocket" alt="Status">
-  <img src="https://img.shields.io/badge/Access-PRIVATE-cc0000?style=for-the-badge&logo=lock" alt="Access">
-  <img src="https://img.shields.io/badge/CDN-jsDelivr-0066cc?style=for-the-badge&logo=cloudflare" alt="CDN">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00cc00?style=flat-square&logo=rocket" alt="Status">
+  <img src="https://img.shields.io/badge/ACCESS-PRIVATE-cc0000?style=flat-square&logo=lock" alt="Access">
+  <img src="https://img.shields.io/badge/CDN-jsDelivr-0066cc?style=flat-square&logo=cloudflare" alt="CDN">
 </div>
 
-<div align="center" style="font-size: 1.2rem; margin: 20px 0; padding: 15px; background: linear-gradient(90deg, #4e54c8, #8f94fb); border-radius: 10px;">
-  <i class="fas fa-shield-alt"></i> Personal Media Storage • <i class="fas fa-ban"></i> Not Public Resource
-</div>
-
----
-
-## <span style="color: #8f94fb"><i class="fas fa-bullseye"></i> Purpose</span>
-
-<div style="display: flex; align-items: center; gap: 20px; background: rgba(79, 84, 200, 0.15); padding: 20px; border-radius: 10px; border-left: 4px solid #8f94fb;">
-  <div style="font-size: 2rem; color: #8f94fb;"><i class="fas fa-database"></i></div>
-  <div>
-    <p>Private storage for media assets used <strong>exclusively</strong> in personal projects</p>
-    <p>Files served through jsDelivr CDN for <strong>personal applications only</strong></p>
-  </div>
+<div align="center" style="margin: 20px 0; font-size: 1.1rem;">
+  <img src="https://img.shields.io/badge/Storage-PERSONAL-8A2BE2?style=flat-square&logo=harddrive"> • 
+  <img src="https://img.shields.io/badge/Resource-NOT_PUBLIC-cc0000?style=flat-square&logo=block">
 </div>
 
 ---
 
-## <span style="color: #ff6b6b"><i class="fas fa-exclamation-triangle"></i> Important Notice</span>
+## <img src="https://img.shields.io/badge/-PURPOSE-8A2BE2?style=flat-square&logo=target"> 
+> <img src="https://img.shields.io/badge/-PRIVATE_STORAGE-0066cc?style=flat-square&logo=database"> Media assets for personal projects  
+> <img src="https://img.shields.io/badge/-CDN_DELIVERY-0066cc?style=flat-square&logo=cloud"> Served through jsDelivr for personal applications  
 
-<div style="background: rgba(255, 107, 107, 0.15); padding: 20px; border-radius: 10px; border-left: 4px solid #ff6b6b;">
-  <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-    <i class="fas fa-ban" style="color: #ff6b6b;"></i>
-    <strong>This is not a public resource</strong>
-  </div>
-  
-  <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-    <i class="fas fa-copyright" style="color: #ff6b6b;"></i>
-    All content is personal property
-  </div>
-  
-  <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-    <i class="fas fa-shield-alt" style="color: #ff6b6b;"></i>
-    Do not use, copy, or redistribute these files
-  </div>
-  
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <i class="fas fa-code-branch" style="color: #ff6b6b;"></i>
-    Repository forking/cloning is not permitted
-  </div>
+---
+
+## <img src="https://img.shields.io/badge/-IMPORTANT_NOTICE-cc0000?style=flat-square&logo=warning"> 
+<div style="background: #2d2d39; padding: 15px; border-radius: 8px; margin: 20px 0;">
+  <p><img src="https://img.shields.io/badge/-NOT_PUBLIC-cc0000?style=flat-square&logo=block"> This is not a public resource</p>
+  <p><img src="https://img.shields.io/badge/-PERSONAL_PROPERTY-8A2BE2?style=flat-square&logo=copyright"> All content is personal property</p>
+  <p><img src="https://img.shields.io/badge/-DO_NOT_USE-cc0000?style=flat-square&logo=forbid"> Do not use, copy, or redistribute</p>
+  <p><img src="https://img.shields.io/badge/-NO_FORKING-cc0000?style=flat-square&logo=git"> Repository forking/cloning prohibited</p>
 </div>
 
 ---
 
-## <span style="color: #4ade80"><i class="fas fa-question-circle"></i> Why Public?</span>
+## <img src="https://img.shields.io/badge/-WHY_PUBLIC-00cc00?style=flat-square&logo=question"> 
+<div style="background: #2d2d39; padding: 15px; border-radius: 8px; margin: 20px 0;">
+  <p><img src="https://img.shields.io/badge/-CDN_REQUIREMENT-00cc00?style=flat-square&logo=check"> GitHub requires public visibility for jsDelivr</p>
+  <p><img src="https://img.shields.io/badge/-PRIVATE_LIMITATION-00cc00?style=flat-square&logo=check"> Private repos cannot use public CDNs</p>
+</div>
 
-<div style="display: flex; align-items: center; gap: 20px; background: rgba(74, 222, 128, 0.15); padding: 20px; border-radius: 10px; border-left: 4px solid #4ade80;">
-  <div style="font-size: 2rem; color: #4ade80;"><i class="fas fa-sync-alt"></i></div>
-  <div>
-    <p>This repository is public solely because:</p>
-    <p><i class="fas fa-check-circle" style="color: #4ade80;"></i> GitHub requires public visibility for jsDelivr CDN</p>
-    <p><i class="fas fa-check-circle" style="color: #4ade80;"></i> Private repos cannot use public CDNs</p>
+---
+
+## <img src="https://img.shields.io/badge/-USAGE_RESTRICTIONS-ff9900?style=flat-square&logo=forbid"> 
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 10px; margin: 20px 0;">
+  <div style="background: #2d2d39; padding: 10px; border-radius: 8px; text-align: center;">
+    <img src="https://img.shields.io/badge/-NO_PUBLIC_USE-ff9900?style=flat-square&logo=link"> Consumption/linking
+  </div>
+  <div style="background: #2d2d39; padding: 10px; border-radius: 8px; text-align: center;">
+    <img src="https://img.shields.io/badge/-NO_THIRD_PARTY-ff9900?style=flat-square&logo=user"> Third-party use
+  </div>
+  <div style="background: #2d2d39; padding: 10px; border-radius: 8px; text-align: center;">
+    <img src="https://img.shields.io/badge/-NO_FORKING-ff9900?style=flat-square&logo=git"> Forking/cloning
+  </div>
+  <div style="background: #2d2d39; padding: 10px; border-radius: 8px; text-align: center;">
+    <img src="https://img.shields.io/badge/-NO_REDISTRIBUTION-ff9900?style=flat-square&logo=share"> Redistribution
   </div>
 </div>
 
 ---
 
-## <span style="color: #fbbf24"><i class="fas fa-hand-paper"></i> Usage Restrictions</span>
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin-top: 20px;">
-  <div style="background: rgba(251, 191, 36, 0.15); padding: 15px; border-radius: 8px; border-left: 4px solid #fbbf24;">
-    <i class="fas fa-link-slash"></i> No public consumption or linking
-  </div>
-  
-  <div style="background: rgba(251, 191, 36, 0.15); padding: 15px; border-radius: 8px; border-left: 4px solid #fbbf24;">
-    <i class="fas fa-user-slash"></i> No third-party use of any kind
-  </div>
-  
-  <div style="background: rgba(251, 191, 36, 0.15); padding: 15px; border-radius: 8px; border-left: 4px solid #fbbf24;">
-    <i class="fas fa-ban"></i> No repository forking or cloning
-  </div>
-  
-  <div style="background: rgba(251, 191, 36, 0.15); padding: 15px; border-radius: 8px; border-left: 4px solid #fbbf24;">
-    <i class="fas fa-share-alt-slash"></i> No content redistribution
-  </div>
+## <img src="https://img.shields.io/badge/-RIGHTS_DECLARATION-8A2BE2?style=flat-square&logo=gavel"> 
+<div style="background: linear-gradient(90deg, #4e54c8, #8f94fb); padding: 15px; border-radius: 8px; margin: 20px 0; text-align: center;">
+  <p><img src="https://img.shields.io/badge/-EXCLUSIVE_PROPERTY-8A2BE2?style=flat-square&logo=copyright"> All content remains personal property</p>
+  <p><img src="https://img.shields.io/badge/-NO_LICENSES-8A2BE2?style=flat-square&logo=license"> No usage rights granted</p>
 </div>
-
----
-
-## <span style="color: #a78bfa"><i class="fas fa-gavel"></i> Rights Declaration</span>
-
-<div style="text-align: center; padding: 20px; background: linear-gradient(90deg, #7e22ce, #a855f7); border-radius: 10px; margin: 25px 0;">
-  <p style="font-size: 1.2rem;"><i class="fas fa-crown"></i> All content remains exclusive personal property</p>
-  <p style="font-size: 1.2rem;"><i class="fas fa-file-contract"></i> No licenses or usage rights granted</p>
-</div>
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
